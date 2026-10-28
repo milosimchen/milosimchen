@@ -1,8 +1,9 @@
-### Hi, I'm Milo 👋
+Math student at Columbia University. I work on distributed quantum computing in the QuAINt Lab, currently on scheduling magic-state factories across quantum networks to serve LLM workloads.
 
-Math student at Columbia. I research distributed quantum computing at the QuAINt Lab, mostly how to schedule magic-state factories so quantum networks can serve the computations LLMs need.
+**Projects**
 
-- 🔭 **[Quantum Tunnel](https://github.com/milosimchen/Quantum-Tunnel)**: practice quantum circuits the way you'll be tested, graded by exact math in Qiskit, with an LLM copilot that coaches but never grades. [Live site](https://quantum-tunnel-sok7.vercel.app)
-- 🛠️ Python, Qiskit, PyTorch, React, FastAPI, PostgreSQL
+- [Quantum Tunnel](https://github.com/milosimchen/Quantum-Tunnel): interview practice for quantum computing. Circuits are graded by exact unitary comparison in Qiskit, and an LLM copilot coaches without grading. [Live site](https://quantum-tunnel-sok7.vercel.app)
 
-📫 [LinkedIn](https://linkedin.com/in/milosimchen) · milo.simchen@columbia.edu
+Python, PyTorch, Qiskit, FastAPI, React, PostgreSQL
+
+[LinkedIn](https://linkedin.com/in/milosimchen) | milo.simchen@columbia.edu
